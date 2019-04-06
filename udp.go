@@ -7,7 +7,7 @@ import (
 
 	"sync"
 
-	"github.com/nadoo/go-shadowsocks2/socks"
+	"github.com/TGSAN/go-shadowsocks2/socks"
 )
 
 type mode int

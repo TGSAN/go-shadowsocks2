@@ -12,7 +12,7 @@ deploy:
   file_glob: true
   file: bin/*
   on:
-    repo: shadowsocks/go-shadowsocks2
+    repo: TGSAN/go-shadowsocks2
     branch: master
     tags: true
   api_key:
